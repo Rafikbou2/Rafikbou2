@@ -17,7 +17,7 @@
 ## 📂 Featured Projects
 - 🔐 [Genetic Decryption](https://github.com/Rafikbou2/genetic-decryption) – Decrypt substitution ciphers with **Genetic Algorithms** (Python GUI).  
 - 🌐 [Portfolio Website](https://github.com/Rafikbou2/portfolio) – My personal responsive portfolio with animations & certificates.  
-- 🏋🏼‍♀️ [imc-calculator]((https://github.com/Rafikbou2/imc-calculator.git)) - application to calculate Body Mass
+- 🏋🏼‍♀️ [imc-calculator](https://github.com/Rafikbou2/imc-calculator.git) - application to calculate Body Mass
 ---
 
 ## 🎓 Certificates
