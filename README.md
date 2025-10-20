@@ -31,8 +31,8 @@
 
 ## 📫 Connect with Me
 - 📧 Email: **rafikbougaada@gmail.com**  
-- 💼 LinkedIn: *[Add your LinkedIn link here]*  
-- 🌍 Portfolio: *[Add your GitHub Pages link here]*  
+- 💼 LinkedIn: (https://www.linkedin.com/in/rafik-bougaada-338831387)  
+
 
 ---
 ⭐️ From [Rafikbou2](https://github.com/Rafikbou2)
