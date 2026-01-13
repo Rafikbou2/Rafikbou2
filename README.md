@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rafik Bougaada  
 
-💻 Computer Science Graduate|Developer at CNRC
+💻 Computer Science Graduate| Developer at CNRC
+
 🎓 Master in Artificial Intelligence 
 🌍 Based in Algeria  
 🚀 Passionate about AI, Web Development, and creating innovative solutions.  
